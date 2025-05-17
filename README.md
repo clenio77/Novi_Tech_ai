@@ -1,15 +1,7 @@
-<!-- Marca d'água Python -->
-<div style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none;">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" style="width:60vw; opacity:0.07; position:absolute; top:20vh; left:20vw;"/>
-</div>
 
-<div style="position: relative; z-index: 1;">
   
 # 📰 TechToday - Seu Resumo Diário do Mundo da Tecnologia
 
-<p align="center">
-  <img src="https://github.com/joaomdmoura/crewAI/raw/main/docs/logo.png" alt="CrewAI Logo" width="200"/>
-</p>
 
 Este projeto utiliza o framework CrewAI para automatizar a coleta de notícias de tecnologia, transformar as informações em um infográfico textual e enviá-las por e-mail diariamente.
 
@@ -106,9 +98,7 @@ Edite o crontab com o comando:
 
 ---
 
-<p align="center">
-  <img src="https://github.com/joaomdmoura/crewAI/raw/main/docs/logo.png" alt="CrewAI Logo" width="100"/>
-</p>
+
 <p align="center">
   <sub>© 2025 Feito por Clenio Afonso de Oliveira Moura. Todos os direitos reservados.</sub>
 </p>
