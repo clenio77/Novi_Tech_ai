@@ -1,0 +1,9 @@
+O infográfico textual foi concluído com sucesso e enviado para o usuário. Ele inclui as seguintes informações:
+
+1. "Estudo mostra que 20 a 30 perguntas à IA consomem meio litro de água. Governo quer atrair data centers com isenção de impostos e especialistas questionam ..." - [Leia mais](https://g1.globo.com/tecnologia/)
+2. "Água e atividade nuclear costumam atrair Ovnis, diz ex-oficial do Pentágono. Navio holandês naufragado há 170 anos é encontrado na costa ..." - [Leia mais](https://www.cnnbrasil.com.br/tecnologia/)
+3. "Acer entra no mundo dos wearables com um anel inteligente e auriculares de tradução com IA. Tesla: condução autónoma testada com sucesso no complicado trânsito ..." - [Leia mais](https://www.sapo.pt/noticias/tecnologia)
+4. "Seu Direito Digital: Internet via satélite pode ficar mais cara com retorno de imposto. Setor de telecomunicações quer renovar a isenção do imposto. E se isso ..." - [Leia mais](https://olhardigital.com.br/)
+5. "Amazon lança 27 satélites de internet ao espaço para competir com Starlink. Há 3 semanas G1 Inovação. 21 seg. VÍDEO: Amazon lança 27 satélites de internet ..." - [Leia mais](https://g1.globo.com/inovacao/)
+
+O e-mail foi enviado com sucesso para o usuário, contendo o infográfico textual.

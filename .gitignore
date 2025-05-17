@@ -1,0 +1,48 @@
+# Arquivos de ambiente
+.env
+*.env
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos de log
+*.log
+
+# Configurações do editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Testes
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# Distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
